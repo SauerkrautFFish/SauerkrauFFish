@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on somebody
 - 📫 How to reach me ...
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauerkrauFFish&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauerkrauFFish&layout=compact)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauerkrautFFish&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauerkrautFFish&layout=compact)
 <br><b>Visitor Count<b><br>
 ![Visitor Count](https://profile-counter.glitch.me/SauerkrauFFish/count.svg)
 
